@@ -18,7 +18,7 @@
 
 # localhost name resolution is handled within DNS itself.
 	
-	127.0.0.1       www.marca.com
+127.0.0.1       www.marca.com
 127.0.0.1       as.com
 127.0.0.1       www.ninofuegoninaagua.com
 127.0.0.1       www.tiktok.com
@@ -28,32 +28,33 @@
 127.0.0.1       www.amazon.es
 127.0.0.1       www.juegoswapos.es
 127.0.0.1       www.1001juegos.com
-	127.0.0.1       www.tiktok.com
-        127.0.0.1       www.krunker.io
-        127.0.0.1       www.deckshop.pro
-        127.0.0.1       www.twitch.tv
-        127.0.0.1       www.instagram.com
-        127.0.0.1       www.friv.com
-        127.0.0.1       www.pornhub.com
-	127.0.0.1 	agar.io
-	127.0.0.1	www.minecraft.net
-	127.0.0.1	www.higherlowergame.com
-	127.0.0.1	www.juegos.com
-	127.0.0.1	www.minijuegos.com
-	127.0.0.1	www.1001juegos.com
-	127.0.0.1	www.juegosarea.com
-	127.0.0.1	www.friv.com
-	127.0.0.1	vandal.elespanol.com
-	127.0.0.1	share-games.com
-	127.0.0.1	www.mejoress.com
-	127.0.0.1	tetris.com
-	127.0.0.1	lagged.com
-	127.0.0.1	www.geoguessr.com
-	127.0.0.1	kirka.io
-	127.0.0.1	gameforge.com
-	127.0.0.1 	www.googlesnake.com
-	127.0.0.1	www.cooljuegos.com
-	127.0.0.1 	tetr.io
-	127.0.0.1	www.twoplayergames.org
-	127.0.0.1	www.ufreegames.com
-	127.0.0.1 	slopeunblocked.online
+127.0.0.1       www.tiktok.com
+127.0.0.1       www.krunker.io
+127.0.0.1       www.deckshop.pro
+127.0.0.1       www.twitch.tv
+127.0.0.1       www.instagram.com
+127.0.0.1       www.friv.com
+127.0.0.1       www.pornhub.com
+127.0.0.1 	agar.io
+127.0.0.1	www.minecraft.net
+127.0.0.1	www.higherlowergame.com
+127.0.0.1	www.juegos.com
+127.0.0.1	www.minijuegos.com
+127.0.0.1	www.1001juegos.com
+127.0.0.1	www.juegosarea.com
+127.0.0.1	www.friv.com
+127.0.0.1	vandal.elespanol.com
+127.0.0.1	share-games.com
+127.0.0.1	www.mejoress.com
+127.0.0.1	tetris.com
+127.0.0.1	lagged.com
+127.0.0.1	www.geoguessr.com
+127.0.0.1	kirka.io
+127.0.0.1	gameforge.com
+127.0.0.1 	www.googlesnake.com
+127.0.0.1	www.cooljuegos.com
+127.0.0.1 	tetr.io
+127.0.0.1	www.twoplayergames.org
+127.0.0.1	www.ufreegames.com
+127.0.0.1 	slopeunblocked.online
+127.0.0.1   www.leagueoflegends.com/
